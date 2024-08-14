@@ -154,7 +154,7 @@ footer {
   }
 
   .weather-app-temperature-container {
-    flex-direction: column;
+    flex-direction: flex;
     align-items: center;
     margin-top: 10px; 
   }
